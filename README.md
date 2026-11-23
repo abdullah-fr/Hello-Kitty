@@ -1,6 +1,6 @@
 # Hello Kitty 🐱
 
-A feature-rich Discord bot built for the **Quetta Tea Corner ☕** community server. Handles moderation utilities, entertainment, channel automation, AI-powered chat replies, and city/role management.
+A feature-rich Discord bot built for discord servers. Handles moderation utilities, entertainment, channel automation, AI-powered chat replies, and city/role management.
 
 > **Deployed bot name:** Hello Kitty
 > **Hosting:** Pterodactyl/FeatherPanel (no-music version)
