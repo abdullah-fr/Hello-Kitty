@@ -1,8 +1,8 @@
-# QuettaTeaBot 🍵
+# Hello Kitty 🐱
 
 A feature-rich Discord bot built for the **Quetta Tea Corner ☕** community server. Handles moderation utilities, entertainment, channel automation, AI-powered chat replies, and city/role management.
 
-> **Deployed bot name:** PingAtYourOwnRisk
+> **Deployed bot name:** Hello Kitty
 > **Hosting:** Pterodactyl/FeatherPanel (no-music version)
 > **AI:** Google Gemini 3.1 Flash-Lite with 4-key rotation
 
@@ -14,7 +14,7 @@ A feature-rich Discord bot built for the **Quetta Tea Corner ☕** community ser
 - Randomly replies to conversations using **Gemini 3.1 Flash-Lite**
 - Context-aware — reads up to 15 recent messages before replying
 - Per-user persona profiles — learns each user's chat style over time
-- Proactive dead chat revival — drops a casual message when chat goes quiet
+- Proactive dead chat revival — drops a casual message when chat gets quiet
 - Serious topic detection — never replies during grief/condolence conversations
 - Uses server custom emojis naturally
 - **4-key Gemini rotation** — auto-switches keys on 429 rate limit
@@ -51,7 +51,7 @@ A feature-rich Discord bot built for the **Quetta Tea Corner ☕** community ser
 - **37 color roles** via button panel (3 pages of 25)
 - **Notification roles** — VC Ping, Chat Ping, Game Ping, Event Ping
 - **Hobby roles** — Gaming, Art, Music, Reading
-- **17 city roles** — Karachite, Lahori, Faisalabadi, Peshawari, Multani, Islamabadi/Pindi, Quettaite, Gujranwala, Hyderabadi, Sialkoti, Bahawalpuri, Sukkuri, Abbottabadi, Gujrati, Jhelumi, Elsewhere 🇵🇰, International
+- **17 city roles** — Karachite, Lahori, Faislabadi, Peshawari, Multani, Islamabadi/Pindi, Quettaite, Gujranwala, Hyderabadi, Sialkoti, Bahawalpuri, Sukkuri, Abbottabadi, Gujrati, Jhelumi, Elsewhere 🌎, International
 
 ### 📊 Utilities
 - `/stats` — server statistics
@@ -81,8 +81,8 @@ A feature-rich Discord bot built for the **Quetta Tea Corner ☕** community ser
 ### Installation
 
 ```bash
-git clone https://github.com/abdullah-fr/QuettaTeaBot.git
-cd QuettaTeaBot
+git clone https://github.com/abdullah-fr/Hello-Kitty.git
+cd Hello-Kitty
 python -m venv .venv
 
 # macOS / Linux
